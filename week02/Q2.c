@@ -1,19 +1,15 @@
-/* Q1
-Write a program to find the area and the circumference of a circle.
-
- pi = 3
- r, read from user */
+/* Q2
+Write a program that reads a character variable from the user
+then prints the character and its ASCII code */
  
  #include <stdio.h>
  int main()
  {
-     int pi=3;
-     int r;
+     char ch;
      
-     scanf("%d",&r);
-     int area = pi * r * r;
-     
-     printf("%d", area)
+     scanf("%c",&ch);
+
+     printf("%c %d", ch, ch)
      
      return 0;
  }
