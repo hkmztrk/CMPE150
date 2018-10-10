@@ -1,3 +1,11 @@
+/*
+Write a program to find the volume of a sphere.
+
+ pi = 3.14
+ r, read from user
+*/
+
+
 #include <stdio.h>
 #define PI 3.14
 
