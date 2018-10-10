@@ -1,5 +1,4 @@
 
-
 /*
 Write a code segment that detects whether a number is divisible by 6.
 
@@ -22,3 +21,5 @@ int main(void){
 
 	return 0;
 }
+
+
