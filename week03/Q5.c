@@ -10,9 +10,9 @@ input: 9
 output: 18
 
 input: a
-output: error
+output: error*/
 
-*/
+
 #include <stdio.h>
 
 int main(void){
