@@ -1,9 +1,20 @@
-int num;
+
+/*
+Read an integer and tell if it is odd or even.
+
+ input: 8
+ output: even
+*/
+
+#include <stdio.h>
+
+int main(void){
+   int num;
+   scanf("%d", &num);
 	
-scanf("%d", &num);
-printf("%d is an ", num);
-if (num%2!=0)
+   if (num%2!=0)
 	printf("odd ");
-else
+   else
 	printf("even ");
-printf("number.\n");
+   printf("number.\n");
+}
