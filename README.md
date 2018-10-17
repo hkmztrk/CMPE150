@@ -1,4 +1,5 @@
 # CMPE150
+Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be shared weekly.
 
 ## Week02
   
@@ -9,10 +10,10 @@
 ## Week03
 
   * float, constants
-  * control structures: if ... else
+  * **control structures:** if ... else
 
 ## Week04
 
-  * control structures: if ... else
-  * control structures: switch ... case
+  * **control structures:** if ... else
+  * **control structures:** switch ... case
   
