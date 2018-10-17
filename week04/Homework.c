@@ -1,20 +1,20 @@
 /*
   Write a program to read two numbers and a choice from the following menu: 
           MENU
-    1. Summation
-    2. Sum of squares
-    3. Sum of cubes
-    4. Product
+    a. Summation
+    b. Sum of squares
+    c. Sum of cubes
+    d. Product
     o/w: Wrong choice!
 
 
-       input: 3 6 4
+       input: 3 6 d
        output 18
 
-       input: 3 6 2
+       input: 3 6 b
        output 45
 
-       input: 3 6 8
+       input: 3 6 z
        output Wrong choice
 
   hint: you can include math.h library, then use pow() function to compute squares and/or cubes
