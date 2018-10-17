@@ -15,7 +15,23 @@ or
 
 int main(void){
 
+	int distance, speed, hours;
+	scanf("%d%d%d", &distance, &speed, &hours);
 
+	int travel = speed * hours;
+
+	if (travel >= distance)
+	{
+	  float ttime = (distance*1.0 / speed);
+	  printf("The vehicle arrived %.1f hours ago.", hours -ttime);
+	}
+	else
+	{
+		if( travel <= (distance - travel))
+			printf("The journey continues, the car is closer to A" );
+		else
+			printf("The journey continues, the car is closer to B");
+	}
 
 	return 0;
 }
