@@ -16,7 +16,21 @@ Write a basic calculator program (+, -, *, /) with if-else statements.
 
 int main(void){
 
+	float inp1, inp2, result;
+	char op;
 
+	scanf("%f %c %f",&inp1, &op, &inp2);
+         /// spaces are important in scanf
+	if(op == '+')
+		result = inp1 + inp2;
+	else if(op == '-')
+		result = inp1 - inp2;
+	else if(op == '/')
+		result = inp1 / inp2;
+	else if(op == '*')
+		result = inp1 * inp2;
+
+	printf("%f", result);
 
 	return 0;
 }
