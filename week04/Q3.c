@@ -17,7 +17,19 @@ If one of your numbers is nonpositive, print "Incorrect input"
 
 int main(void){
 
+	int num1, num2;
 
+	scanf("%d %d", &num1, &num2);
+
+	if(num1 >= 0)
+	{
+		if(num1 % num2 == 0)
+			printf("it is divisible.");
+		else
+			printf("it is not divisible.");
+	}
+	else
+		printf("Incorrect input.");
 
 	return 0;
 }
