@@ -71,6 +71,5 @@ Write a program that will take integers as inputs until the user enters a negati
 | INPUT      | OUTPUT    |         
 | ---------  |:---------:| 
 | 4 7 45 9 2 0 0 5 8 -4     | 80 | 
-| 24602      | 0 | 
 | 1 1 0 1 -1          | 3 |
 
