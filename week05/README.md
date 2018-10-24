@@ -1,5 +1,5 @@
 
-### Q0 - homework
+### Q0
 
 
 Write a program with 'Switch Case' to read two numbers and an integer choice from the following menu and print the result.
@@ -62,4 +62,15 @@ Write a program which reads an integer (smaller than 1000000)  then prints out h
 | 24602      | 0 | 
 | 5          | 1 |
 
+
+### Homework
+
+Write a program that will take integers as inputs until the user enters a negative number. Then shows the user the sum of all the non-negative numbers he/she entered.
+
+
+| INPUT      | OUTPUT    |         
+| ---------  |:---------:| 
+| 4 7 45 9 2 0 0 5 8 -4     | 80 | 
+| 24602      | 0 | 
+| 1 1 0 1 -1          | 3 |
 
