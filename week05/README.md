@@ -1,5 +1,7 @@
 ## 24.10.2018
 
+#### quiz questions and solutions will be added on friday.
+
 ### Q0
 
 
