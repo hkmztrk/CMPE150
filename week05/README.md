@@ -1,5 +1,5 @@
 
-### Homework
+### Q0 - homework
 
 
 Write a program with 'Switch Case' to read two numbers and an integer choice from the following menu and print the result.
