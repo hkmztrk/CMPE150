@@ -17,3 +17,9 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
   * **control structures:** if ... else, nested if ... else
   * **control structures:** switch ... case
   
+  
+ ## Week05
+
+  * **loops:** while
+
+  
