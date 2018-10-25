@@ -1,7 +1,5 @@
 ## 24.10.2018
 
-#### quiz questions and solutions will be added on friday.
-
 ### Q0
 
 
@@ -66,7 +64,34 @@ Write a program which reads an integer (smaller than 1000000)  then prints out h
 | 5          | 1 |
 
 
+### Quiz Q1
 
+Write a program which reads two integers (A, B). If the first number is divisible by the second number, then print |A|+B. Otherwise print |A|*B.
+
+
+| INPUT      | OUTPUT    |         
+| ---------  |:---------:| 
+| -5 1     | 6  | 
+| -5 10    | 50 |
+| 20 4     | 24|
+| 20 7     |140|
+
+Note:|A| corresponds to absolute value of A. If A is negative you should convert it to positive first.
+Assume: B > 0 
+
+### Quiz Q2
+
+Write a program which reads a character C, if the character C is not a digit your program should read one more integer (A) and print its square (A^2). If the character C is a digit, your program should convert it to integer and print 2*C.
+
+| INPUT      | OUTPUT    |         
+| ---------  |:---------:| 
+| h 5     | 25  | 
+| 3          | 6 |
+| + 7 6      | 49|
+| 2 c      | 4|
+
+
+Notice that in some of the example inputs there are some extra characters or integers. If entered in one line, your program should not take the extra input into account. 
 
 ### Homework
 
