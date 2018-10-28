@@ -123,8 +123,10 @@ Write a program that takes a positive integer in the range 1 to 365 (which corre
 Write a program that takes two integer inputs:  hour (integer 0–23) and minute (integer 0–59).
 
    - Give an error message and stop if either integer is outside the required range.
-    - Print the 24-hour time along with the equivalent 12-hour (AM/PM) time. 
-    - The times should include leading zeros as necessary, so that it prints 03:08 rather than 3:8 for 3:08 AM.
+   
+   - Print the 24-hour time along with the equivalent 12-hour (AM/PM) time. 
+    
+   - The times should include leading zeros as necessary, so that it prints 03:08 rather than 3:8 for 3:08 AM.
         
         
         input: 11 15
