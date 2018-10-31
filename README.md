@@ -21,5 +21,9 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
  ## Week05
 
   * **loops:** while
+  
+ ## Week06
+
+  * **loops:** while, do-while, for
 
   
