@@ -79,6 +79,21 @@ Write a program which reads a positive integer number N (smaller than 50), and p
                   *------*
                   ********
 
+### Quiz Q1
+Write a program which reads characters until the user enters two consecutive digits. After reading each character your program should print it. Reading a digit after another digit should stop printing and also terminate your program.
+
+Assume: The input will be one line and will include consecutive digits.
+
+
+| INPUT      | OUTPUT    |         
+| ---------  |:---------:| 
+| Example 1 Example 31 now terminated     | Example 1 Example 3 | 
+| 1a2b3c4d5e6f7g8h9i17j11k12l     | 1a2b3c4d5e6f7g8h9i1 | 
+| A93 A1     | A9 | 
+| Hi 5 2 u41     | Hi 5 2 u4 | 
+
+
+
 ### Homework.1
 
  Write a program that takes 2 integers and prints their greatest common divisor (GCD). 
