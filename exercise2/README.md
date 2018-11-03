@@ -9,8 +9,8 @@ Write a program that reads  a positive integer K and write a sequence using the 
     
     set the first element of sequence to K.
     compute the next element as:
-             half of the previous if previous is even
-             three times the previous, plus one if previous is odd. 
+             if previous is even : previous / 2
+             if previous is odd : previous * 3 + 1
                 
 Program terminates when the sequence reaches 1.
 
@@ -20,7 +20,7 @@ Program terminates when the sequence reaches 1.
 
 ### Q2
 
-Write a program that first asks the user for an integer, N, and then calculates three sums: 
+Write a program that reads  an integer, N, and then calculates three sums: 
 
     the sum of the even integers, 
     the sum of the odd integers, and 
@@ -39,7 +39,7 @@ Write a program that first asks the user for an integer, N, and then calculates 
  
      Perfect number is a positive integer which is equal to the sum of its proper positive divisors/factors.
      
-     e.g: 6 is the first perfect number and sum of its proper divisors, 1 + 2 + 3 = 6
+     e.g: 6 is a perfect number, 1 + 2 + 3 = 6
      
      input: 6
      output: perfect
@@ -54,7 +54,7 @@ Write a program that first asks the user for an integer, N, and then calculates 
 
 Write a program that reads a positive integer n and decide whether it is a narcissistic number.  A  narcissistic number is equal to its digits each raised to the power of the number of digits equals the number.
 
-    Example: 153 is a narcissistic number since 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153.
+    153 is a narcissistic number =  1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153.
     
     
     input: 153
@@ -78,7 +78,7 @@ Write a program to read an integer from user (N) and find the sum of all the mul
 
 ### Q6
 
-Inverted half pyramid using numbers
+Write a program to print the following shape of numbers.
 
         1 2 3 4 5
         1 2 3 4 
