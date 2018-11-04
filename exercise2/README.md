@@ -80,6 +80,9 @@ Write a program to read an integer from user (N) and find the sum of all the mul
 
 Write a program to print the following shape of numbers.
 
+        input: 5
+        output:
+
         1 2 3 4 5
         1 2 3 4 
         1 2 3
