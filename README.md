@@ -4,6 +4,7 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
 For other asisstants repos for CMPE150:
 
 [Burak's](https://github.com/suyunu/c-notes)
+
 [Ozlem's](https://github.com/ozlemsalehi/cmpe150)
 
 ## Week02
