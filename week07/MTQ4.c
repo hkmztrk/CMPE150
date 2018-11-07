@@ -7,7 +7,7 @@ int main() {
 	int N, i,j;
 	scanf("%d",&n);
   
-  int spaces = 3N - 4;
+  	int spaces = 3N - 4;
 
 	for(i=1;i<=n;i++){
 		for(j=1;j<i;j++){
@@ -24,7 +24,7 @@ int main() {
 			}
 		}
 
-    spaces -=2; 
+    		spaces -=2; 
 		printf("*\n");
     
 	}
