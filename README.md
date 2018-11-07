@@ -33,3 +33,6 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
   * **loops:** while, do-while, for
 
   
+ ## Week07
+
+  * **functions:**
