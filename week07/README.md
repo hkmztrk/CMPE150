@@ -109,7 +109,7 @@ Write a program to read integer (N) from the user then print the following N x N
             **..
             **..
             $$oo
-        $$oo
+            $$oo
     
     
     input: 6
@@ -119,8 +119,8 @@ Write a program to read integer (N) from the user then print the following N x N
             ***...
             ***...
             $$$ooo
-        $$$ooo
-        $$$ooo
+            $$$ooo
+            $$$ooo
 
 
 ### Homework.2
