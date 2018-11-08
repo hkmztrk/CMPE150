@@ -1,9 +1,4 @@
-/*
- * lab2.c
- *
- *  Created on: 3 Eki 2018
- *      Author: Hakimee
- */
+
 
 #include <stdio.h>
 
