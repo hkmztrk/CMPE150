@@ -77,7 +77,15 @@ Write a function that will take an integer n, and returns 't' if it's a perfect 
 
 ### Homework.1
 
+Write a function that will take an integer as a parameter. Then calculates and returns its binary version as another integer. 
 
+ Then write main appropriately to see the result.
+ 
+ | INPUT      | OUTPUT    |         
+| ---------  |:---------:| 
+| 25 | 11001 | 
+| 532    |  1000010100 | 
+| 5     | 101| 
 
 
 ### Homework.2
