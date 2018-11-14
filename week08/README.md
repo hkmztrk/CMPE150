@@ -115,4 +115,3 @@ For instance for inputs 16 and 4,  sOS(16) = 17, sOS(17) = 50, sOS(50) = 25, sOS
 | 16 4 | 29 | 
 
 
-sqn(17) = 50, sqn(50) = 25, sqn(25) = 29, sqn(29) = 85,
