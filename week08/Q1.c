@@ -25,7 +25,7 @@ int fetchDigit(int number, int n){
 
 /* solution 2*/
 /*int fetchDigit(int number, int n){
-	int res,i, f;
+	int i, f;
 
 	for(i=1; i <=n; i++){
 
