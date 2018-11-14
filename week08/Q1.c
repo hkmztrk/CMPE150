@@ -23,6 +23,23 @@ int fetchDigit(int number, int n){
 	return out;
 }
 
+/* solution 2*/
+/*int fetchDigit(int number, int n){
+	int res,i, f;
+
+	for(i=1; i <=n; i++){
+
+
+		if( number == 0){
+			return -1;
+		}
+			f = number %10;
+			number /=10;
+
+	}
+	return f;
+} */
+
 
 int main(void){
 
