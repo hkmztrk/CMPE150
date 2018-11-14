@@ -45,6 +45,7 @@ Write a function that takes an integer n and prints a square nxn with '*'s.
 
   input: 4
   output: 
+  
              *
              **
              ***
