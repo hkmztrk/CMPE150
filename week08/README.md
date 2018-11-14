@@ -74,6 +74,11 @@ Write a function that will take an integer n, and returns 't' if it's a perfect 
  * Perfect Number: a positive integer that is equal to the sum of its positive divisors excluding the number itself. 
 
  Then write main appropriately to see the result. 
+ 
+
+### Homework.0
+
+#### Please study PS-9 and PS-10 from Teaching Codes before the next lab.
 
 ### Homework.1
 
