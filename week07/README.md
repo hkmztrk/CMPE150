@@ -147,5 +147,5 @@ Write a functions that checks whether the given number is prime. Function takes 
 Then use this function to find the number of prime numbers between two integers. 
 
         input: 2 20 
-        output: 5
+        output: 8
 
