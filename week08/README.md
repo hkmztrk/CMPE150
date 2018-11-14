@@ -90,6 +90,15 @@ Write a function that will take an integer as a parameter. Then calculates and r
 
 ### Homework.2
 
+Write a function named primeFactors which takes an integer as a parameter and prints all prime factors of the number. Prime factor of a number is a prime number that can divide corresponding number.
+
+For example:  2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31 are the prime numbers which are smaller than or equal to 35 and just 5 and 7 can divide 35 without remainder. That's why, prime factors of 35 are 5 and 7.
+
+ | INPUT      | OUTPUT    |         
+| ---------  |:---------:| 
+| 35 | 5 7 | 
+| 240 |  2 3 5 | 
+| 13    | 13 | 
 
 
 
