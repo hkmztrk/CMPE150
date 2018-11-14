@@ -104,4 +104,15 @@ For example:  2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31 are the prime numbers which
 
 ### Homework.3
 
+Write a function named sumOfSquares which takes two integers, a number to calculate the sum of the squares of its digits and another number to perform this n times. Function returns the final sum of squares.
 
+For instance for inputs 16 and 4,  sOS(16) = 17, sOS(17) = 50, sOS(50) = 25, sOS(25) = 29, we started from 16, and performed the sumOfSquares 4 times, the function should output 29.
+
+
+
+ | INPUT      | OUTPUT    |         
+| ---------  |:---------:| 
+| 16 4 | 29 | 
+
+
+sqn(17) = 50, sqn(50) = 25, sqn(25) = 29, sqn(29) = 85,
