@@ -101,7 +101,7 @@ Write a function that will take an integer and reverse its last N digits.
 
 Write a program to check whether an integer is the sum of two prime numbers of all possible combinations. 
 
-Write and use the function **isPrime() ** which takes an integer as input, and returns:
+Write and use the function **isPrime()** which takes an integer as input, and returns:
 
         1 if the integer is prime, 
         0 otherwise.
@@ -196,6 +196,14 @@ Write a function that takes an integer as input and returns:
         'T' if the integer is palindrome 
         'F' otherwise
  
+
+
+### Q14
+
+Write two functions named **factorial()** and **combination()**. Call factorial function inside combination function to perform factorial operation.
+
+	C(n,k) = n! / [(n - k)! k!]
+	
 
 ### Note
 
