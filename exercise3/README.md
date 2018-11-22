@@ -117,7 +117,7 @@ Write a function that takes a date of birth and current date in YYYY, MM and DD 
 Remember to check for leap years using a seperate function named **isleapYear()**. 
 
 
-### Q9
+### Q9 - pointer
 
 
 Write a function named **removeDigit** which takes two parameters: an integer pointer (p), and an integer (x), respectively. The function should remove **x** digit (from the right) of the integer inside the address: **p** (divide the number to 10^x). 
@@ -180,7 +180,7 @@ If you look at the first example, you can observe followings:
           _x____
           XXXXXX
 
-### Q12
+### Q12 - pointer
 
 Write a function named **digitCount** which takes an integer number and an integer pointer digitNum. 
 
