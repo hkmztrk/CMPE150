@@ -99,12 +99,22 @@ Write a function that will take an integer and reverse its last N digits.
 
 ### Q7
 
-Write a program to check whether an integer is the sum of two prime numbers of all possible combinations. 
-
-Write and use the function **isPrime()** which takes an integer as input, and returns:
+Write a function  named **isPrime()** which takes an integer as input, and returns:
 
         1 if the integer is prime, 
         0 otherwise.
+	
+Then, write another function named **isSumPrime()** to check whether an integer is the sum of two prime numbers of all possible combinations. 
+
+	   input:  34 
+	   output: 3 31
+		   5 29
+		   11 23
+		   17 17
+
+
+Call isPrime() function inside isSumPrime() function.
+
 
 
 
