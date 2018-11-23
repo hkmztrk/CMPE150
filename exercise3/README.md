@@ -104,7 +104,7 @@ Write a function  named **isPrime()** which takes an integer as input, and retur
         1 if the integer is prime, 
         0 otherwise.
 	
-Then, write another function named **isSumPrime()** to check whether an integer is the sum of two prime numbers of all possible combinations. 
+Then, write another function named **SumPrime()** to check whether an integer is the sum of two prime numbers of all possible combinations. 
 
 	   input:  34 
 	   output: 3 31
@@ -113,7 +113,7 @@ Then, write another function named **isSumPrime()** to check whether an integer 
 		   17 17
 
 
-Call isPrime() function inside isSumPrime() function.
+Call isPrime() function inside SumPrime() function.
 
 
 
