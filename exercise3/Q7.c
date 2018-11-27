@@ -40,7 +40,7 @@ int isPrime(int n)
         }
     }
     
-    if(n==1) flag=0;
+    if(n<2) flag=0;
 
     return flag;
 }
