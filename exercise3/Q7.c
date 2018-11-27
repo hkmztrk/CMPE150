@@ -39,6 +39,8 @@ int isPrime(int n)
             break;
         }
     }
+    
+    if(n==1) flag=0;
 
     return flag;
 }
