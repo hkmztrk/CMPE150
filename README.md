@@ -46,3 +46,6 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
   * **pointers:**
 
 
+   ## Week10
+
+  * **arrays:**
