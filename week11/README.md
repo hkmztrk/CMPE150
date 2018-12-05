@@ -82,7 +82,7 @@ Make use of functions **read_array(...)** and **print_array(...)** you already d
         output: 1 2 4 7 7 7
 
 
-<img src="remove-arr.png">
+![Removing an element from an array](https://github.com/hkmztrk/CMPE150/blob/master/week11/remove-arr.PNG)
 
 ### Homework.2
 
