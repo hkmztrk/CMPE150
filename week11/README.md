@@ -5,7 +5,7 @@
 
 Write a program which reads two integers: **N** and **M** from the user. Then the program should read N more integers, then M more integers from the user. Assume N<M<50. 
 
-     If the first combination of N integers appear at least once in the second combination of M integers, the program should write the starting index of the first appearance in the second combination. Otherwise it should not print anything. 
+ If the first combination of N integers appear at least once in the second combination of M integers, the program should write the starting index of the first appearance in the second combination. Otherwise it should not print anything. 
 
 
     input: 4 12
