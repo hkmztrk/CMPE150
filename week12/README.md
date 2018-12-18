@@ -61,38 +61,13 @@ Write a function named **strlen** which has a string as a parameter and returns 
 
 
 
-
-```python
-#include <stdio.h>
-#include <stdlib.h>
-
-int strlen(char arr[]){
-	int i;
-	for(i=0; arr[i]!= '\0'; i++);
-
-	return i;
-}
-
-int main(void){
-
-	char str[50];
-	fgets(str, 50, stdin);
-
-	printf("length: %d", strlen(str)-1);
-
-
-
-	return 0;
-}
-```
-
 ### Homework.1
 
 Write a function named **strcmp** which takes two parameters, two strings, and returns the length of the string.
 
 
 
-```
+
 
 ### Homework.2
 
