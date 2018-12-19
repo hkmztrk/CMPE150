@@ -49,3 +49,17 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
    ## Week10
 
   * **arrays:**
+  
+   ## Week11
+
+  * **arrays:**
+  
+   ## Week12
+   
+  * **multi-dimensional arrays:**
+  * **string:**
+  
+   ## Week13
+
+  * **string:**
+  * **struct:**
