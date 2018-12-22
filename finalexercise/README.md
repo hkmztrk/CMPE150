@@ -35,11 +35,11 @@ Write a program based on the following assumptions/rules:
 
  For example, for the first example, 
  
-        •The program reads an integer: 1, which means that the following integer will be added to the array. So the program reads 6 and adds it into the array.
-        •Then it reads 2, which means that the following two integers will be added to the array. So the program reads 10 and 20 and adds them into the array.
-        •Then it reads -1 which means that the last element of the array will be removed. So 20 is removed.
-        •Then it reads 3 which means that the sum of the current array elements will be calculated and added into the array. So 6+10=16, 16 is added into the array.
-        •Then it reads 4 which means that the current array will be printed. So 6 10 16 will be printed on the screen. 
+        The program reads an integer: 1, which means that the following integer will be added to the array. So the program reads 6 and adds it into the array.
+        Then it reads 2, which means that the following two integers will be added to the array. So the program reads 10 and 20 and adds them into the array.
+        Then it reads -1 which means that the last element of the array will be removed. So 20 is removed.
+        Then it reads 3 which means that the sum of the current array elements will be calculated and added into the array. So 6+10=16, 16 is added into the array.
+        Then it reads 4 which means that the current array will be printed. So 6 10 16 will be printed on the screen. 
 
 
 
