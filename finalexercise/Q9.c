@@ -8,14 +8,14 @@ int isAnagram(char a1[], char a2[]){
 
 	while(a1[i]!='\0'){
 		char cur = a1[i++]; /*we will use ASCII of the char to index*/
-		alphabet1[cur-92] += 1; /* -92 means, if char is a, index =0*/
+		alphabet1[cur-97] += 1; /* -97 means, if char is a, index =0*/
 
 
 	}
 	i=0;
 	while(a2[i]!='\0'){
 		char cur = a2[i++]; /*we will use ASCII of the char to index*/
-		alphabet2[cur-92] += 1; /* -92 means, if char is a, index =0*/
+		alphabet2[cur-97] += 1; /* -97 means, if char is a, index =0*/
 
 	}
 
