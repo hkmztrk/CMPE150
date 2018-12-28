@@ -113,7 +113,7 @@ Write the function with the given prototype which finds all the occurrences of a
         input: 1010101101
                1010
 
-        output: 0,2,4
+        output: 0,2
         
 
         input: 0111011101
