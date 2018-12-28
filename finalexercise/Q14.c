@@ -20,6 +20,7 @@ int main(){
 
 	for(i=0; i < N; i++){
 		if(Houses[i].area * Houses[i].price > max){
+			max= Houses[i].area * Houses[i].price;
 			expensive.number = Houses[i].number;
 			expensive.area = Houses[i].area;
 			expensive.price = Houses[i].price;
