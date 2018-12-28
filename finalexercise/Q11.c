@@ -22,7 +22,7 @@ int main(void) {
 	for(j=0; j!= '0'; j++){
 		if(sentence[j]>= 'a' && sentence[j] <= 'z'){
 			int num = sentence[j];
-			alphabet[num-92] +=1;
+			alphabet[num-97] +=1; /*97 is ASCII num for 'a'*/
 		}
 	}
 
@@ -36,7 +36,7 @@ int main(void) {
 		}
 	}
 
-	printf("%c", ind+92);
+	printf("%c", ind+97);
 
 
 
