@@ -1,4 +1,5 @@
 
+## W03 Notes // 27.02.19
 ### Q0
 
 Write a program that reads an upper case letter, then prints its position in the alphabet.
