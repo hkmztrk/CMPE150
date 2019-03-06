@@ -1,5 +1,5 @@
 
-## W04 / 06.03.2019
+## W04 // 06.03.2019
 
 ### Q0
 
@@ -14,7 +14,7 @@ Read one character as input and check if it is a digit:
 | 9      | 18| 
 | b     | error| 
 
-### Q2
+### Q1
 
 Write a basic calculator program (+, -, *, /) with  switch cases. 
 
@@ -26,7 +26,7 @@ Write a basic calculator program (+, -, *, /) with  switch cases.
 | 1 + 45     | 46.00| 
 | 1 - 45     | -44.00 | 
 
-### Q3
+### Q2
 
 Write a program that displays characters from 'c' to 'p'.
 
