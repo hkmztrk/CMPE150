@@ -74,7 +74,8 @@ Write a program to check vowel or consonant:
   | ---------  |:---------:| 
   |9     | not alphabet| 
   | a    | vowel  | 
-  | b   | consonant  | 
+  | B   | consonant  | 
+  | !   | not alphabet  | 
 
 
 ### Homework-4
