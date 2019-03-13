@@ -31,7 +31,7 @@ Write a program that will take an integer N, then prints N! (N factorial).
 
 ### Q2
 
-Write a program that reads two characters and displays from first character to second **excluding vowels**.
+Write a program that reads two characters and displays from first character to second **excluding vowels**. Assume inputs will be lower-case characters.
 
     input: c p
     output: c d f g h j k l m n p
@@ -41,7 +41,7 @@ Write a program that reads two characters and displays from first character to s
 
 ### Q3
 
-Write a program that reads two numbers and prints the numbers that can be divided to 11 between them (including the numbers themselves)
+Write a program that reads two numbers and prints the numbers that can be divided to 11 between them (including the numbers themselves). Assume the smaller number will be read first.
 
 | INPUT      | OUTPUT    |         
 | ---------  |:---------:| 
