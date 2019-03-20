@@ -1,7 +1,7 @@
 
 ## W06 // 20.03.2019
 
-### Q0.
+### W05.HW2
 
 
     Fibonacci numbers are: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, .... 
@@ -19,7 +19,7 @@ Write a program which reads a positive integer number N (smaller than 50), and p
 | 10     | 34 | 
 
 
-### Q0.2
+### W05.HW3
 
 Write a program which reads an integer (smaller than 1000000)  then prints out how many of the digits are odd numbers. 
 
