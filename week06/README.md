@@ -106,8 +106,8 @@ Write a program that will take integers until the user enters an odd number. The
             ***...
             ***...
             $$$ooo
-        $$$ooo
-        $$$ooo
+            $$$ooo
+            $$$ooo
 
  ### Homework-3
 
@@ -118,6 +118,9 @@ Write a function **isPrime()** that checks whether the given number is prime. Fu
             0 if not
 
 
-```python
+```c
+int isPrime(int number){
 
+
+}
 ```
