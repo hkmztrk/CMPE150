@@ -96,7 +96,7 @@ Write a program that will take integers until the user enters an odd number. The
             **..
             **..
             $$oo
-        $$oo
+            $$oo
     
     
     input: 6
