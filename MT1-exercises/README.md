@@ -75,8 +75,6 @@ Write a program which reads an integer N. Then your program should read N more i
 Assume: User will not enter the same number twice without entering a different number and numbers will be positive integers.
 
 
-Write a program which reads characters until the user enters two consecutive letters 'xy'. After reading each character your program should print it. Reading 'y' after 'x' should stop printing and also terminate your program.
-
     input:
          2
          1 10
