@@ -82,9 +82,9 @@ Write a program that will take integers until the user enters an odd number. The
  
 | INPUT      | OUTPUT    |         
 | ---------  |:---------:| 
-| 464221     | 3.6 | 
-| 22121     | 2 | 
-| 1     | 0 | 
+| 4 6 4 2 2 1     | 3.6 | 
+| 2 2 1 2 1     | 2.0 | 
+| 1     | 0.0 | 
 
  ### Homework-2
  
