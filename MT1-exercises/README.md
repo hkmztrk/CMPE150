@@ -54,27 +54,8 @@ Program terminates when the sequence reaches 1.
 
 
 
+
 ### Q4
-
-Write a program which reads a character C, if the character C is not a digit your program should read one more integer (A) and print its square (A^2). 
-
-If the character C is a digit, your program should convert it to integer and print 2*C.
-
-| INPUT      | OUTPUT    |         
-| ---------  |:---------:| 
-| h 5     | 25  | 
-| 3          | 6 |
-| + 7 6      | 49|
-| 2 c      | 4|
-
-
-Notice that in some of the example inputs there are some extra characters or integers. If entered in one line, your program should not take the extra input into account. 
-
-
-
-
-
-### Q5
 
 Write a program which reads characters until the user enters two consecutive letters 'xy'. After reading each character your program should print it. Reading 'y' after 'x' should stop printing and also terminate your program.
 
@@ -87,7 +68,7 @@ Write a program which reads characters until the user enters two consecutive let
 
 
 
-###  Q6
+###  Q5
 
 Write a program which reads an integer N. Then your program should read N more integers and print the completed sequence by filling the prime numbers between each entry.
 
