@@ -61,7 +61,7 @@ int main(){
 
 ```
 
-<img src="fig2.png" style="width:50%">
+<img src="fig2.PNG" style="width:50%">
 
 ### Functions with return
 
