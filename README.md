@@ -17,7 +17,23 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
 ## Week04
 
   * **control structures:** switch ... case
-  * **loops:** while, for
+
+## Week05
+
+  * **loops:** while, do-while, for
+  
+
+ ## Week06
+
+  * **loops:** while, do-while, for
+
+  
+ 
+## Week07
+
+  * **functions:**
+  
+
   
 
 
