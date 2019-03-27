@@ -16,7 +16,7 @@ Let's think about the general concept of cooking with a recipe first. Using a re
 
 Those **ingredients** are called **parameters**. 
 
-<img src="fig1.png" style="width:60%">
+<img src="fig1.png" style="width:40%">
 
 ### Function types
 
@@ -61,7 +61,7 @@ int main(){
 
 ```
 
-<img src="fig2.PNG" style="width:50%">
+<img src="fig2.PNG" style="width:40%">
 
 ### Functions with return
 
