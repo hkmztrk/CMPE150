@@ -116,7 +116,8 @@ Write a function named **toUpper** which takes a char as input, and returns the 
 
  Then write a program which reads a word from the user, and prints it with upper case characters. Assume valid words will be given. 
  
-        !!!Your program should be terminated to be considered to be correct. Any program that outputs the correct number but waits for another input from the user will be incorrect.!!!
+        !!!Your program should be terminated to be considered to be correct. 
+        Any program that outputs the correct number but waits for another input from the user will be incorrect.!!!
 
 
 
