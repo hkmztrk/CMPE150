@@ -152,9 +152,9 @@ Write a function that will take an integer N, and returns **T** if it's a perfec
  
  | INPUT      | OUTPUT    |         
 | ---------  |:---------:| 
-| 4 | 24 | 
-| 3     |  6 | 
-| 43     | 30| 
+| 6 | T | 
+| 27    |  F | 
+| 28     | T| 
 
 ###  Homework-3
 
