@@ -73,6 +73,8 @@ Write a program which reads a sentence from the user (read characters until '\n'
 | Programming is fun   | Qsphsbnnjoh!jt!gvo   Programming is fun | 
 
 
+**Fun Fact:** [Caesar Cipher](https://www.wikiwand.com/en/Caesar_cipher)
+
 ### Homework-2
 
 Write a program which reads an integer N from the user, then reads N integers from the user. Compute the sum of the absolute value of the difference between each array element and its index.
