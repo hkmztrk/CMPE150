@@ -105,3 +105,19 @@ Then write a function named **findConsecutives()** which checks whether integer 
         output: -1
     
 
+## TEACHING CODES LAB08 - QUESTIONS
+
+### Q1
+
+Write a function which takes two integer arrays arr1, arr2, and their sizes as two integers N and M. Then the function should remove all the elements in arr2 from arr1. The function should update arr1 so that it no longer contain elements from arr2. The function should return the new size of arr1. 
+    Hint: you can create and use another temporary array in the function. 
+
+Then in the main program, read two arrays from the user (first their sizes N, M, and then N+M integers as array elements). Then call the function passing the arrays and their sizes. Then print the first array to see the updated version. 
+
+        input:  10 3
+                1 2 3 4 7 5 5 12 7 7
+                5 3 12
+                
+        output: 1 2 4 7 7 7
+    
+    
