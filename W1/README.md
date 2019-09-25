@@ -3,6 +3,7 @@
 
 ### Materials:
 *   [CMPE150 Official Sources](https://programming.cmpe.boun.edu.tr/)
+*   [CMPE150 Lecture Slides](https://www.dropbox.com/sh/jemfn420lir6oq1/AADoyWd0nADuovf4iEr8JTega?dl=0)
 *   [C Tutorial](http://www.learn-c.org/)
 *   [Online C Compiler](https://www.onlinegdb.com/online_c_compiler)
 
