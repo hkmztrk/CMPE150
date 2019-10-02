@@ -22,14 +22,14 @@ Write a program to print the following rectangle using only ```printf()``` funct
 
 <img src="w02-datatypes.png" style="width:90%">
 
-#### If an integer type is stored in $N$ bits:
-#### *   Signed range: -$2^N-1$ and $2^{N-1} -1$
-#### *   Unsigned range: $0$ to $2^N - 1$.
+#### If an integer type is stored in N bits:
+#### *   Signed range: -2<sup>N-1</sup> and 2<sup>N-1</sup> -1
+#### *   Unsigned range: 0 to 2<sup> N - 1</sup>.
 
-#### e.g. <span style="color:blue">int</span>
+#### e.g. int
 ####    4 bytes = 32 bits
-####      - <span style="color:blue">int</span>: $-2^{31}$ and $2^{31}-1$  (-1 because of 0)
-####      - <span style="color:blue">unsigned int</span>: $0$ to $2^{32} -1$ 
+####      - int: -2 <sup>31</sup>  and 2 <sup>31</sup>-1  (-1 because of 0)
+####      - unsigned int: 0 to 2 <sup>32</sup> -1 
 
 ## The overflow
 
@@ -99,8 +99,6 @@ int main()
 }
 ```
 
-#### print the rectangle with user-input integer?
-
 ### Q1
 
 Write a program that **reads** two integers and then calculates and prints: 
@@ -134,4 +132,20 @@ Write a program to read two floating numbers a and b, and print the result of th
      output:  25.20
     
 Print only two decimal points.
+
+
+### Homework-3
+
+Write a program that reads an integer from the user and then  prints the following rectangle using only ```printf()``` function (Height:5*, Width:9*).
+
+
+
+            input: 9
+
+            999999999
+            9	   9
+            9	   9
+            9	   9
+            999999999
+
 
