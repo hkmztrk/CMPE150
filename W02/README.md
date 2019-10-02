@@ -8,9 +8,9 @@
 Write a program to print the following rectangle using only ```printf()``` function (Height:5*, Width:9*).
 
             *********
-            *	   *
-            *	   *
-            *	   *
+            *	*
+            *	*
+            *	*
             *********
 
 
