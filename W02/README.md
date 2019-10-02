@@ -143,9 +143,9 @@ Write a program that reads an integer from the user and then  prints the followi
             input: 9
 
             999999999
-            9	   9
-            9	   9
-            9	   9
+            9	9
+            9	9
+            9	9
             999999999
 
 
