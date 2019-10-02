@@ -118,7 +118,7 @@ Write a program to find the area and the circumference of a circle. Read $r$ fro
      pi = 3.14159
  
      input: 5 
-     output:  15.71
+     output:  Cir= 31. 41,   Are= 49.34
      
 Print only two decimal points.
 
