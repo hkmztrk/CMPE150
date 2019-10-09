@@ -7,15 +7,15 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
   
   * printf()
   * scanf()
-  *  char, int, float
+  * int, float
 
 
 ## Week03
 
-  * **control structures:** if ... else
+  *  char
 
 ## Week04
-
+  * **control structures:** if ... else
   * **control structures:** switch ... case
 
 ## Week05
