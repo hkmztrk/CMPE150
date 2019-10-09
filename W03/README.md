@@ -24,7 +24,7 @@ Write a program to find the area and the circumference of a circle. Read $r$ fro
      pi = 3.14159
  
      input: 5 
-     output:  Cir= 31. 41,   Are= 49.34
+     output:  Cir= 31. 41,   Are= 78.53
      
 Print only two decimal points.
 
@@ -63,30 +63,29 @@ int main(){
 	printf("n:%d\n",n);
     // n = n+1 OR n += 1 OR n++
 
-	x=n++; 
-	printf("x:%d n:%d\n",x,n);
-    /* equals to following two commands:
-    * x = n;
-    * n++;
-    */
+       x=n++; 
+       printf("x:%d n:%d\n",x,n);
+      /* equals to following two commands:
+      * x = n;
+      * n++;
+      */
     
-	
-	x=n--;   
-	printf("x:%d n:%d\n",x,n);
+    x=n--;   
+    printf("x:%d n:%d\n",x,n);
     /* equals to following two commands:
     * x = n;
     * n--;
     */  
     
     x=++n;   
-	printf("x:%d n:%d\n",x,n
+    printf("x:%d n:%d\n",x,n
    /* equals to following two commands:
     * n++;
     * x = n;
     */  
     
     x=--n;   
-	printf("x:%d n:%d\n",x,n);
+    printf("x:%d n:%d\n",x,n);
    /* equals to following two commands:
     * n--;
     * x = n;
@@ -132,7 +131,7 @@ int main(){
 Write a program that reads a character variable from the user then prints the character and its ASCII code.
 
     input: x y z
-    output: x 120, y ASCII, z ASCII
+    output: x 120, y 121 , z 122
 
 ### Q2
 
