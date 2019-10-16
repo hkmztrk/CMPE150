@@ -43,7 +43,7 @@ int main(){
 
 ## Control Statements: If-else, Switch case
 
-<img src="w04-ifelse.png" style="width:40%">
+<img src="w04-ifelse.png" style="width:20%">
 
 #### Comparison operators
 
