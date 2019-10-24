@@ -4,8 +4,8 @@ Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be
 **Email:** hakime.ozturk@boun.edu.tr
 
 ### Other CMPE150 repos
-[CMPE150.02](https://github.com/suyunu/c-notes)
-[CMPE150.03](https://github.com/gokceuludogan/cmpe150-fall19)
+*   [CMPE150.02](https://github.com/suyunu/c-notes)
+*   [CMPE150.03](https://github.com/gokceuludogan/cmpe150-fall19)
 
 ## Week02
   
