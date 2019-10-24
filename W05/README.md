@@ -113,35 +113,6 @@ int main(){
 }
  ```
 
-#### Continue and break
-
-```c
-#include <stdio.h>
-
-int main(){			
-    
-    /* Continue */
-    int i = 0;  
-    while ( i <= 10) 
-    {
-        if (condition ) // do NOT forget the indendation, it makes your code readable
-            continue;   // skips the rest of the code and continues the next iteration
-        
-        i +=1;
-    } 
-    
-     /* Break */
-    int i =0;
-    while ( i <= 10) 
-    {
-        if (condition ) // do NOT forget the indendation, it makes your code readable
-            break;   // terminates the loop and you are outside of while 
-        
-        i +=1;
-    } 
-}
- ```
-
 
 ### Q1
 
