@@ -108,7 +108,7 @@ int main(){
         /* statements */
         z +=1;
 
-    } while ( z <= 10 ) 
+    } while ( z <= 10 ); // do not forget ;  
 
 }
  ```
