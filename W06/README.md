@@ -70,7 +70,7 @@ Write a program to read a character input in a loop. Print only numbers and  exi
 |    xyzzz123xttE | 123  | 
 |    xyz1e2rr3xttE | 1  | 
 
-### Q4
+### Q3
 
 Write a program which reads an integer (smaller than 1000000)  then prints out how many of the digits are odd numbers. 
 
