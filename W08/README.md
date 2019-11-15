@@ -3,7 +3,7 @@
 
 ### Warm Up
 
- ### HW-1
+ ### Q0.1
 
 Write a function named **printAsTime** which takes hours, minutes, and seconds as three integers, 
 then prints it to the screen as shown in the examples. 
@@ -16,7 +16,7 @@ then prints it to the screen as shown in the examples.
 | 5 12 3 | 05:12:03 | 
 | 3 0 22     |  03:00:22 |  
 
- ### HW-2
+ ### Q0.2
 
 Write a function named **factorial** that takes an integer as a parameter and computes and **returns** the factorial of that integer.
 
