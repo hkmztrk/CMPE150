@@ -4,15 +4,15 @@
 
 ## Arrays
 
-<img src="W10_01.png" style="width:80%">
+<img src="W10_01.PNG" style="width:80%">
 
 ### Inserting and element
 
-<img src="W10_02.png" style="width:80%">
+<img src="W10_02.PNG" style="width:80%">
 
 ### Inserting the result of an operation
 
-<img src="W10_03.png" style="width:80%">
+<img src="W10_03.PNG" style="width:80%">
 
 ### Q1 
 
