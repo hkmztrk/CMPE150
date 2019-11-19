@@ -15,7 +15,7 @@
 
 <img src="W09-ptr3.png" style="width:90%">
 
-### HW-1
+### Q0.1
 
 
 Write a function named **cubeByReference()**
@@ -23,7 +23,7 @@ Write a function named **cubeByReference()**
 **cubeByReference** takes an integer pointer and computes the cube of the integer. (does not return anything.)
 
 
-### HW-2
+### Q0.2
 
 Write a function named **swap** which takes two integer pointers (addresses of two integers) and swaps the values in those two addresses. 
 
@@ -33,7 +33,7 @@ In the main program, create two integer variables a and b, then read their value
 Print their values to the screen. Then call the swap function with the addresses of these two integers, and print their values again to see if they are really swapped. 
 
 
-### HW-3
+### Q0.3
 
 Write a function named **divideWithRemainder** which takes two integer values: 
 
@@ -52,6 +52,3 @@ Also note that, before calling a function with pointer inputs in the main progra
 
 
 
-```python
-
-```

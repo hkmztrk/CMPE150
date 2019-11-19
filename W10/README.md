@@ -1,30 +1,5 @@
 
-## W09 // --.11.2019
-
-### Q0.1
-
-Write a function named **swap** which takes two integer pointers (addresses of two integers) and swaps the values in those two addresses. 
-
-
-In the main program, create two integer variables a and b, then read their values from the user. 
-
-Print their values to the screen. Then call the swap function with the addresses of these two integers, and print their values again to see if they are really swapped. 
-
-
-### Q0.2
-
-Write a function named **divideWithRemainder** which takes: 
-
-    two integer parameters number and divisor, and 
-    two integer pointers (addresses of two integers): result and remainder. 
-    
-This function should divide the number by divisor, then write the result into the address given by result, and write the remainder into the address given by remainder. 
-
-    In the main program, create four integers: a,b,c,d. Then read the values of a and b from the user. Then call the function with the values of a and b, and the addresses of c and d, respectively. 
-
-    Your function will divide a by b, and the value of c will be the result, and the value of d will be the remainder. Then print out the values of c and d. 
-
-    Note that this function doesn't need to return anything!
+## W10 // 27.11.2019
 
 
 ## Arrays
@@ -58,7 +33,7 @@ Write a program which reads an integer N from the user, then reads N integers fr
     output: 7 8 6 5 3 4 2 1
 
 
-### Homework-1
+### Q3
 
 
 Write a program which reads a sentence from the user (read characters until '\n' appears). Your program then should put this sentence into a char array (assume the sentence will be shorter than 50 characters). 
@@ -73,7 +48,7 @@ Write a program which reads a sentence from the user (read characters until '\n'
 | Programming is fun   | Qsphsbnnjoh!jt!gvo   Programming is fun | 
 
 
-### Homework-2
+### Q4
 
 Write a program which reads an integer N from the user, then reads N integers from the user. Compute the sum of the absolute value of the difference between each array element and its index.
 
