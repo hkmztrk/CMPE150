@@ -1,7 +1,7 @@
 # CMPE150
 Bogazici University, CMPE150 (Introduction to Computing C) lab exercises will be shared weekly.
 
-**Email:** hakime.ozturk@boun.edu.tr
+**Email:** hakime.ozturk@boun.edu.tr  
 **Email:** emre.bilgili@boun.edu.tr
 
 ### Other CMPE150 repos
