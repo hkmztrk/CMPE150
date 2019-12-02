@@ -96,19 +96,19 @@ Return the sum of these multiplications.
 	311
 
 ### Q4
-Read n as the size of the array.
-Then, read n integers and fill the array.
-Then, read an integer as m as starting index.
-Then, read an integer as k and assume it is positive.
-Send them to a void function named "func".
-You will modify the array.
-Perform following operation k times.
-Starting direction is right.
-Check the current element in the index m.
-Take module of the current element with 3.
-If it is 1, set direction to right, else if it is 2, set direction to left and in both cases, set value to 0 of the current index.
-In the next operation, m must be m + 1 or m - 1 according to direction.
-If you go out of the array, jump other end of the array.
+Read n as the size of the array.  
+Then, read n integers and fill the array.  
+Then, read an integer as m as starting index.  
+Then, read an integer as k and assume it is positive.  
+Send them to a void function named "func".  
+You will modify the array.  
+Perform following operation k times.  
+Starting direction is right.  
+Check the current element in the index m.  
+Take module of the current element with 3.  
+If it is 1, set direction to right, else if it is 2, set direction to left and in both cases, set value to 0 of the current index.  
+In the next operation, m must be m + 1 or m - 1 according to direction.  
+If you go out of the array, jump other end of the array.  
 
 	Input:
 	7
