@@ -148,3 +148,30 @@ Go through both strings and count the same characters in the matching indices.
     bacabcbab
     Output:
     4
+
+### Q5
+Read integer n and m as the size of strings.  
+Then, read a n-sized string1 (char array).  
+Then, read a m-sized string2 (char array).  
+Count how many times string2 occurs in string1.  
+
+    Input:
+    7 2
+    aabbaab
+    aa
+    Output:
+    2
+
+    Input:
+    9 1
+    aabbaaabb
+    b
+    Output:
+    4
+
+    Input:
+    11 3
+    aababbaabba
+    bbb
+    Output:
+    0
