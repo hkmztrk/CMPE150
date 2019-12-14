@@ -82,3 +82,26 @@ And whenever you see a character c in the string, add k to that character c.
     Output:
     3
     fhagaehbacfaaea
+
+### Q2
+Read integer n as the size of string and read character c.  
+Then, read a n-sized string (char array).  
+Create a new string and fill it with the characters of old string.  
+But, do not copy characters c (delete them).  
+Realize that, size of the new string will be shorter than old string.  
+Print the new string.  
+Print size of the new string.  
+
+    Input:
+    7 a
+    aabcaba
+    Output:
+    bcb
+    3
+
+    Input:
+    14 a
+    bcabcaabccbaba
+    Output:
+    bcbcbccbb
+    9
