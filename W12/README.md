@@ -2,7 +2,7 @@
 
 Strings or just char arrays.
 
-### How to declare?
+#### How to declare?
 char string1[] = {'W', 'e', 'l', 'c', 'o', 'm', 'e', '\0'};
 Do not forget to put the first character as \0.
 
@@ -27,7 +27,7 @@ You can declare this string before the "printf" and give this string to "printf"
     printf(print, 4, 5.25, 'e');
     printf(print, 5, 7.25, 'f');
     
-### How to read from the console?
+#### How to read from the console?
 Char by char... Do not forget that, spaces and pressing enter (new line character, \n) counts as a character, too.
 
     int n;
@@ -62,7 +62,7 @@ It is better to select one of these read and write operations from the options a
     fgets(string4, 10, stdin);
     puts(string4);
 
-## Q1
+### Q1
 Read integer n, integer k and char c.  
 Then, read a n-sized string (char array).  
 Send string, k and c to a function.  
