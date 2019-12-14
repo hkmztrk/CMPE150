@@ -61,3 +61,24 @@ It is better to select one of these read and write operations from the options a
     // gets(string4);
     fgets(string4, 10, stdin);
     puts(string4);
+
+## Q1
+Read integer n, integer k and char c.  
+Then, read a n-sized string (char array).  
+Send string, k and c to a function.  
+In the function, count and return how many times character c appears in the string.  
+And whenever you see a character c in the string, add k to that character c.  
+
+    Input:
+    12 6 c
+    caabcacbbcac
+    Output:
+    5
+    iaabiaibbiai
+
+    Input:
+    16 -3 d
+    fhdgaehbacfddea
+    Output:
+    3
+    fhagaehbacfaaea
