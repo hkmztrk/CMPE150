@@ -105,3 +105,26 @@ Print size of the new string.
     Output:
     bcbcbccbb
     9
+
+### Q3
+Read integer n as the size of string and read character c.  
+Then, read a n-sized string (char array).  
+Create a new string and fill it with the characters of old string.  
+But, copy characters c twice (duplicate them).  
+Realize that, size of the new string will be longer than old string.  
+Print the new string.  
+Print size of the new string.  
+
+    Input:
+    7 a
+    aabcaba
+    Output:
+    aaaabcaabaa
+    11
+
+    Input:
+    14 a
+    bcabcaabccbaba
+    Output:
+    bcaabcaaaabccbaabaa
+    19
