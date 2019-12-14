@@ -128,3 +128,23 @@ Print size of the new string.
     Output:
     bcaabcaaaabccbaabaa
     19
+
+### Q4
+Read integer n as the size of strings.  
+Then, read a n-sized string1 (char array).  
+Then, read a n-sized string2 (char array).  
+Go through both strings and count the same characters in the matching indices.  
+
+    Input:
+    7
+    aabbaab
+    aabbaab
+    Output:
+    7
+
+    Input:
+    9
+    abcbacaab
+    bacabcbab
+    Output:
+    4
