@@ -119,3 +119,80 @@ Try anything to see.
     74 f 95.13
     64 t 32.84
     67 y 13.45
+
+### Q1
+
+    First, prepare the struct.
+    struct player {
+        char id[4];
+        int size;
+        int year;
+    };
+    Then read, n, a1, a2, b1, b2 integers.
+    Then read n times id, size and year to fill struct array.
+    Send them to a function.
+    Count and return how many players are inside the bounds.
+    Conditions are a1 >= size >= a2 and b1 >= year >= b2.
+    Print ids of the players who are inside the bound inside the function.
+    Print the count that function returns.
+
+    Input:
+    6 19 16 180 165
+    vbn 17 161
+    dfg 18 177
+    zxc 20 169
+    bnm 19 181
+    jkl 15 166
+    wer 17 174
+    Output:
+    dfg
+    wer
+    2
+    
+### Q2
+    First, prepare the struct.
+    struct item_pair {
+        int price1;
+        int price2;
+        int budget;
+    };
+    Then read n and fill the items array.
+    Send n and array to a function.
+    Count and return how many items we can buy from those item pairs.
+    Rules: If the budget can buy both of them, buy both and print "Both items".
+    If the budget can buy only one, buy it print "Item 1" or "Item 2".
+    If the budget can buy only either one of them, buy the first one and print "Item 1".
+    If the budget cannot buy anything, print "No buy".
+    Input:
+    6
+    12 21 33
+    15 12 11
+    16 19 17
+    18 11 13
+    10 10 10
+    10 10 20
+    Output:
+    Both items
+    No buy
+    Item 1
+    Item 2
+    Item 1
+    Both items
+    7
+
+### Q3
+    First, prepare the structs.
+    struct point {
+        int x;
+        int y;
+    };
+    struct square {
+        struct point p;
+        int length;
+    };
+    Then, read three integers as the x y and length.
+    (x, y) coordinates are left up corner of our square.
+    Write 3 functions as area, perimeter and right_down.
+    area takes a square and returns area of the square.
+    perimeter takes a square and returns perimeter length of the square.
+    right_down rakes a square and returns a point that right down corner of the square.
